@@ -1,3 +1,5 @@
 
+[![Open In Colab][colab-badge]][default-notebook]
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haoxins/my-colab-nbs/blob/main/01-Hello.ipynb)
+[colab-badge]: https://colab.research.google.com/assets/colab-badge.svg
+[default-notebook]: https://colab.research.google.com/github/haoxins/my-colab-nbs/blob/main/01-Hello.ipynb
